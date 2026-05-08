@@ -1,5 +1,8 @@
 # Simple-Chat-App
-![Project Logo](logo.png)
+
+<p align="center">
+  <img src="logo.png" alt="Logo" width="124">
+</p>
 
 A Simple Chat App made with React
 
